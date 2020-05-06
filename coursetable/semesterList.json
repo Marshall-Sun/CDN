@@ -1,0 +1,534 @@
+[
+  {
+    "value": "2018fall",
+    "label": "2018年秋季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      },
+      {
+        "value": 5,
+        "label": "第5周",
+        "isLeaf": true
+      },
+      {
+        "value": 6,
+        "label": "第6周",
+        "isLeaf": true
+      },
+      {
+        "value": 7,
+        "label": "第7周",
+        "isLeaf": true
+      },
+      {
+        "value": 8,
+        "label": "第8周",
+        "isLeaf": true
+      },
+      {
+        "value": 9,
+        "label": "第9周",
+        "isLeaf": true
+      },
+      {
+        "value": 10,
+        "label": "第10周",
+        "isLeaf": true
+      },
+      {
+        "value": 11,
+        "label": "第11周",
+        "isLeaf": true
+      },
+      {
+        "value": 12,
+        "label": "第12周",
+        "isLeaf": true
+      },
+      {
+        "value": 13,
+        "label": "第13周",
+        "isLeaf": true
+      },
+      {
+        "value": 14,
+        "label": "第14周",
+        "isLeaf": true
+      },
+      {
+        "value": 15,
+        "label": "第15周",
+        "isLeaf": true
+      },
+      {
+        "value": 16,
+        "label": "第16周",
+        "isLeaf": true
+      },
+      {
+        "value": 17,
+        "label": "第17周",
+        "isLeaf": true
+      },
+      {
+        "value": 18,
+        "label": "第18周",
+        "isLeaf": true
+      }
+    ]
+  },
+  {
+    "value": "2019spring",
+    "label": "2019年春季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      },
+      {
+        "value": 5,
+        "label": "第5周",
+        "isLeaf": true
+      },
+      {
+        "value": 6,
+        "label": "第6周",
+        "isLeaf": true
+      },
+      {
+        "value": 7,
+        "label": "第7周",
+        "isLeaf": true
+      },
+      {
+        "value": 8,
+        "label": "第8周",
+        "isLeaf": true
+      },
+      {
+        "value": 9,
+        "label": "第9周",
+        "isLeaf": true
+      },
+      {
+        "value": 10,
+        "label": "第10周",
+        "isLeaf": true
+      },
+      {
+        "value": 11,
+        "label": "第11周",
+        "isLeaf": true
+      },
+      {
+        "value": 12,
+        "label": "第12周",
+        "isLeaf": true
+      },
+      {
+        "value": 13,
+        "label": "第13周",
+        "isLeaf": true
+      },
+      {
+        "value": 14,
+        "label": "第14周",
+        "isLeaf": true
+      },
+      {
+        "value": 15,
+        "label": "第15周",
+        "isLeaf": true
+      },
+      {
+        "value": 16,
+        "label": "第16周",
+        "isLeaf": true
+      },
+      {
+        "value": 17,
+        "label": "第17周",
+        "isLeaf": true
+      },
+      {
+        "value": 18,
+        "label": "第18周",
+        "isLeaf": true
+      }
+    ]
+  },
+  {
+    "value": "2019summer",
+    "label": "2019年夏季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      }
+    ]
+  },
+  {
+    "value": "2019fall",
+    "label": "2019年秋季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      },
+      {
+        "value": 5,
+        "label": "第5周",
+        "isLeaf": true
+      },
+      {
+        "value": 6,
+        "label": "第6周",
+        "isLeaf": true
+      },
+      {
+        "value": 7,
+        "label": "第7周",
+        "isLeaf": true
+      },
+      {
+        "value": 8,
+        "label": "第8周",
+        "isLeaf": true
+      },
+      {
+        "value": 9,
+        "label": "第9周",
+        "isLeaf": true
+      },
+      {
+        "value": 10,
+        "label": "第10周",
+        "isLeaf": true
+      },
+      {
+        "value": 11,
+        "label": "第11周",
+        "isLeaf": true
+      },
+      {
+        "value": 12,
+        "label": "第12周",
+        "isLeaf": true
+      },
+      {
+        "value": 13,
+        "label": "第13周",
+        "isLeaf": true
+      },
+      {
+        "value": 14,
+        "label": "第14周",
+        "isLeaf": true
+      },
+      {
+        "value": 15,
+        "label": "第15周",
+        "isLeaf": true
+      },
+      {
+        "value": 16,
+        "label": "第16周",
+        "isLeaf": true
+      },
+      {
+        "value": 17,
+        "label": "第17周",
+        "isLeaf": true
+      },
+      {
+        "value": 18,
+        "label": "第18周",
+        "isLeaf": true
+      }
+    ]
+  },
+  {
+    "value": "2020spring",
+    "label": "2020年春季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      },
+      {
+        "value": 5,
+        "label": "第5周",
+        "isLeaf": true
+      },
+      {
+        "value": 6,
+        "label": "第6周",
+        "isLeaf": true
+      },
+      {
+        "value": 7,
+        "label": "第7周",
+        "isLeaf": true
+      },
+      {
+        "value": 8,
+        "label": "第8周",
+        "isLeaf": true
+      },
+      {
+        "value": 9,
+        "label": "第9周",
+        "isLeaf": true
+      },
+      {
+        "value": 10,
+        "label": "第10周",
+        "isLeaf": true
+      },
+      {
+        "value": 11,
+        "label": "第11周",
+        "isLeaf": true
+      },
+      {
+        "value": 12,
+        "label": "第12周",
+        "isLeaf": true
+      },
+      {
+        "value": 13,
+        "label": "第13周",
+        "isLeaf": true
+      },
+      {
+        "value": 14,
+        "label": "第14周",
+        "isLeaf": true
+      },
+      {
+        "value": 15,
+        "label": "第15周",
+        "isLeaf": true
+      },
+      {
+        "value": 16,
+        "label": "第16周",
+        "isLeaf": true
+      },
+      {
+        "value": 17,
+        "label": "第17周",
+        "isLeaf": true
+      },
+      {
+        "value": 18,
+        "label": "第18周",
+        "isLeaf": true
+      }
+    ]
+  },
+  {
+    "value": "2020summer",
+    "label": "2020年夏季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      }
+    ]
+  },
+  {
+    "value": "2020fall",
+    "label": "2020年秋季学期",
+    "children": [
+      {
+        "value": 1,
+        "label": "第1周",
+        "isLeaf": true
+      },
+      {
+        "value": 2,
+        "label": "第2周",
+        "isLeaf": true
+      },
+      {
+        "value": 3,
+        "label": "第3周",
+        "isLeaf": true
+      },
+      {
+        "value": 4,
+        "label": "第4周",
+        "isLeaf": true
+      },
+      {
+        "value": 5,
+        "label": "第5周",
+        "isLeaf": true
+      },
+      {
+        "value": 6,
+        "label": "第6周",
+        "isLeaf": true
+      },
+      {
+        "value": 7,
+        "label": "第7周",
+        "isLeaf": true
+      },
+      {
+        "value": 8,
+        "label": "第8周",
+        "isLeaf": true
+      },
+      {
+        "value": 9,
+        "label": "第9周",
+        "isLeaf": true
+      },
+      {
+        "value": 10,
+        "label": "第10周",
+        "isLeaf": true
+      },
+      {
+        "value": 11,
+        "label": "第11周",
+        "isLeaf": true
+      },
+      {
+        "value": 12,
+        "label": "第12周",
+        "isLeaf": true
+      },
+      {
+        "value": 13,
+        "label": "第13周",
+        "isLeaf": true
+      },
+      {
+        "value": 14,
+        "label": "第14周",
+        "isLeaf": true
+      },
+      {
+        "value": 15,
+        "label": "第15周",
+        "isLeaf": true
+      },
+      {
+        "value": 16,
+        "label": "第16周",
+        "isLeaf": true
+      },
+      {
+        "value": 17,
+        "label": "第17周",
+        "isLeaf": true
+      },
+      {
+        "value": 18,
+        "label": "第18周",
+        "isLeaf": true
+      }
+    ]
+  }
+]
