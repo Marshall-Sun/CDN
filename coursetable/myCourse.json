@@ -49,7 +49,6 @@
     "day": 1,
     "time": "1-2"
   },
-
   {
     "name": "体育",
     "teacher": "曹盛民",
@@ -239,5 +238,615 @@
     "week": [1, 2, 3, 4],
     "day": 3,
     "time": "1-2"
+  },
+  {
+    "name": "马克思主义基本原理概论",
+    "teacher": "韩雪冰",
+    "location": "1号A403",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 1,
+    "time": "1-2"
+  },
+  {
+    "name": "概率论与数理统计",
+    "teacher": "钱进",
+    "location": "信息A109",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 1,
+    "time": "3-4"
+  },
+  {
+    "name": "概率论与数理统计",
+    "teacher": "钱进",
+    "location": "信息A109",
+    "year": 2019,
+    "semester": 3,
+    "week": [2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "day": 4,
+    "time": "3-4"
+  },
+  {
+    "name": "日语",
+    "teacher": "徐捷",
+    "location": "1号B315",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 1,
+    "time": "5-6"
+  },
+  {
+    "name": "日语",
+    "teacher": "徐捷",
+    "location": "1号B107",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 3, 5, 7],
+    "day": 4,
+    "time": "3-4"
+  },
+  {
+    "name": "日语",
+    "teacher": "徐捷",
+    "location": "1号B311",
+    "year": 2019,
+    "semester": 3,
+    "week": [10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 3,
+    "time": "3-4"
+  },
+  {
+    "name": "日语",
+    "teacher": "徐捷",
+    "location": "1号B105",
+    "year": 2019,
+    "semester": 3,
+    "week": [10, 11, 12, 13],
+    "day": 2,
+    "time": "1-2"
+  },
+  {
+    "name": "数据结构与算法",
+    "teacher": "董傲霜",
+    "location": "信息A113",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 1,
+    "time": "7-8"
+  },
+  {
+    "name": "数据结构与算法",
+    "teacher": "董傲霜",
+    "location": "信息A113",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 2,
+    "time": "1-2"
+  },
+  {
+    "name": "数据结构与算法",
+    "teacher": "董傲霜",
+    "location": "信息A113",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 5,
+    "time": "1-2"
+  },
+  {
+    "name": "操作系统",
+    "teacher": "韩春燕",
+    "location": "信息A113",
+    "year": 2019,
+    "semester": 3,
+    "week": [10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 2,
+    "time": "3-4"
+  },
+  {
+    "name": "操作系统",
+    "teacher": "韩春燕",
+    "location": "信息A113",
+    "year": 2019,
+    "semester": 3,
+    "week": [9, 10, 11, 12, 13, 14, 15, 16],
+    "day": 4,
+    "time": "5-6"
+  },
+  {
+    "name": "计算机组成原理",
+    "teacher": "任涛",
+    "location": "信息A101",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 2,
+    "time": "3-4"
+  },
+  {
+    "name": "计算机组成原理",
+    "teacher": "任涛",
+    "location": "信息A101",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 3,
+    "time": "9-10"
+  },
+  {
+    "name": "计算机组成原理",
+    "teacher": "任涛",
+    "location": "信息A101",
+    "year": 2019,
+    "semester": 3,
+    "week": [1, 2, 3, 5, 6, 7, 8],
+    "day": 4,
+    "time": "7-8"
+  },
+  {
+    "name": "Python程序设计",
+    "teacher": "姜琳颖",
+    "location": "1号A201",
+    "year": 2019,
+    "semester": 3,
+    "week": [10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 2,
+    "time": "9-10"
+  },
+  {
+    "name": "Python程序设计",
+    "teacher": "姜琳颖",
+    "location": "1号A107",
+    "year": 2019,
+    "semester": 3,
+    "week": [10, 11, 12, 13, 14, 15, 16],
+    "day": 4,
+    "time": "11-12"
+  },
+  {
+    "name": "Python程序设计",
+    "teacher": "姜琳颖",
+    "location": "1号A102",
+    "year": 2019,
+    "semester": 3,
+    "week": [10],
+    "day": 3,
+    "time": "5-6"
+  },
+  {
+    "name": "体育",
+    "teacher": "曹盛民",
+    "location": "",
+    "year": 2019,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15],
+    "day": 5,
+    "time": "5-6"
+  },
+  {
+    "name": "体育",
+    "teacher": "刘力瑜",
+    "location": "",
+    "year": 2019,
+    "semester": 1,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "day": 5,
+    "time": "5-6"
+  },
+  {
+    "name": "全球视野下的人类文明与科技发展",
+    "teacher": "李正鸿,陈红兵",
+    "location": "1号A202",
+    "year": 2019,
+    "semester": 1,
+    "week": [2, 3, 4, 5, 6, 7, 12, 13],
+    "day": 0,
+    "time": "1-2"
+  },
+  {
+    "name": "形势与政策",
+    "teacher": "张振芝",
+    "location": "文管A129",
+    "year": 2019,
+    "semester": 1,
+    "week": [12, 13],
+    "day": 0,
+    "time": "5-6"
+  },
+  {
+    "name": "物理概论",
+    "teacher": "何砚发",
+    "location": "1号A202",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 1,
+    "time": "1-2"
+  },
+  {
+    "name": "物理概论",
+    "teacher": "何砚发",
+    "location": "1号A202",
+    "year": 2019,
+    "semester": 1,
+    "week": [10, 11, 12, 13],
+    "day": 1,
+    "time": "7-8"
+  },
+  {
+    "name": "物理概论",
+    "teacher": "何砚发",
+    "location": "1号A404",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 2,
+    "time": "7-8"
+  },
+  {
+    "name": "面向对象程序设计",
+    "teacher": "王蓓蕾",
+    "location": "1号A202",
+    "year": 2019,
+    "semester": 1,
+    "week": [14, 15, 16, 17],
+    "day": 1,
+    "time": "1-2"
+  },
+  {
+    "name": "面向对象程序设计",
+    "teacher": "王蓓蕾",
+    "location": "1号A405",
+    "year": 2019,
+    "semester": 1,
+    "week": [10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 3,
+    "time": "3-4"
+  },
+  {
+    "name": "面向对象程序设计",
+    "teacher": "王蓓蕾",
+    "location": "1号A103",
+    "year": 2019,
+    "semester": 1,
+    "week": [9, 10, 11, 12, 13, 14, 15, 16],
+    "day": 5,
+    "time": "3-4"
+  },
+  {
+    "name": "高等数学①㈡",
+    "teacher": "杨中兵",
+    "location": "生命B201",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 1,
+    "time": "3-4"
+  },
+  {
+    "name": "高等数学①㈡",
+    "teacher": "杨中兵",
+    "location": "生命B201",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 3,
+    "time": "1-2"
+  },
+  {
+    "name": "高等数学①㈡",
+    "teacher": "杨中兵",
+    "location": "生命B201",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 5,
+    "time": "1-2"
+  },
+  {
+    "name": "大学英语(2)",
+    "teacher": "宫晓莉",
+    "location": "1号B215",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 2,
+    "time": "1-2"
+  },
+  {
+    "name": "大学英语(2)听力",
+    "teacher": "宫晓莉",
+    "location": "1号B111",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 4,
+    "time": "5-6"
+  },
+  {
+    "name": "大学英语(2)口语",
+    "teacher": "Eugene",
+    "location": "1号B209",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "day": 4,
+    "time": "7-8"
+  },
+  {
+    "name": "离散数学",
+    "teacher": "李昕",
+    "location": "1号A401",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 16],
+    "day": 2,
+    "time": "3-4"
+  },
+  {
+    "name": "离散数学",
+    "teacher": "李昕",
+    "location": "1号A102",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 16],
+    "day": 4,
+    "time": "1-2"
+  },
+  {
+    "name": "中国近现代史纲要",
+    "teacher": "于桂荣",
+    "location": "1号A403",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "day": 4,
+    "time": "3-4"
+  },
+  {
+    "name": "软件工程专业概论",
+    "teacher": "朱志良,姜琳颖",
+    "location": "1号A302",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4, 5, 6, 7, 8],
+    "day": 5,
+    "time": "3-4"
+  },
+  {
+    "name": "陶瓷艺术欣赏与创作",
+    "teacher": "王峰,钟莹,王佳伊",
+    "location": "生命B602",
+    "year": 2019,
+    "semester": 1,
+    "week": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "day": 6,
+    "time": "3-4"
+  },
+  {
+    "name": "数字媒体专业概论",
+    "teacher": "姜慧研",
+    "location": "信息A101",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4],
+    "day": 6,
+    "time": "5-6"
+  },
+  {
+    "name": "数字媒体专业概论",
+    "teacher": "姜慧研",
+    "location": "信息A101",
+    "year": 2019,
+    "semester": 1,
+    "week": [1, 2, 3, 4],
+    "day": 6,
+    "time": "7-8"
+  },
+  {
+    "name": "思想道德修养与法律基础",
+    "teacher": "李光莉",
+    "location": "生命B101",
+    "year": 2018,
+    "semester": 3,
+    "week": [7, 8, 9],
+    "day": 0,
+    "time": "1-2"
+  },
+  {
+    "name": "思想道德修养与法律基础",
+    "teacher": "李光莉",
+    "location": "建筑A102",
+    "year": 2018,
+    "semester": 3,
+    "week": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 4,
+    "time": "7-8"
+  },
+  {
+    "name": "程序设计基础",
+    "teacher": "王爽",
+    "location": "1号A304",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "day": 1,
+    "time": "1-2"
+  },
+  {
+    "name": "程序设计基础",
+    "teacher": "王爽",
+    "location": "1号A304",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "day": 3,
+    "time": "1-2"
+  },
+  {
+    "name": "高等数学①㈠",
+    "teacher": "杨中兵",
+    "location": "生命B401",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 1,
+    "time": "3-4"
+  },
+  {
+    "name": "高等数学①㈠",
+    "teacher": "杨中兵",
+    "location": "生命B401",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 3,
+    "time": "3-4"
+  },
+  {
+    "name": "高等数学①㈠",
+    "teacher": "杨中兵",
+    "location": "生命B401",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "day": 5,
+    "time": "1-2"
+  },
+  {
+    "name": "大学生心理与健康教育",
+    "teacher": "程美华,闵睿",
+    "location": "1号A207",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 7, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 1,
+    "time": "5-6"
+  },
+  {
+    "name": "大学英语(1)",
+    "teacher": "宫晓莉",
+    "location": "1号B211",
+    "year": 2018,
+    "semester": 3,
+    "week": [8],
+    "day": 1,
+    "time": "5-6"
+  },
+  {
+    "name": "大学英语(1)",
+    "teacher": "宫晓莉",
+    "location": "1号B309",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 4,
+    "time": "5-6"
+  },
+  {
+    "name": "大学英语(1)听力",
+    "teacher": "宫晓莉",
+    "location": "1号B607",
+    "year": 2018,
+    "semester": 3,
+    "week": [4, 6, 8, 10, 12, 14, 16],
+    "day": 2,
+    "time": "1-2"
+  },
+  {
+    "name": "大学英语(1)听力",
+    "teacher": "宫晓莉",
+    "location": "1号B607",
+    "year": 2018,
+    "semester": 3,
+    "week": [3],
+    "day": 5,
+    "time": "3-4"
+  },
+  {
+    "name": "大学英语(1)口语",
+    "teacher": "Eugene",
+    "location": "1号B303",
+    "year": 2018,
+    "semester": 3,
+    "week": [11],
+    "day": 2,
+    "time": "9-10"
+  },
+  {
+    "name": "大学英语(1)口语",
+    "teacher": "Eugene",
+    "location": "1号B101",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 5,
+    "time": "7-8"
+  },
+  {
+    "name": "专业职业发展",
+    "teacher": "张斌,周福才,姜慧研,朱志良",
+    "location": "1号A203",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 6, 7, 8],
+    "day": 1,
+    "time": "7-8"
+  },
+  {
+    "name": "线性代数",
+    "teacher": "郭阳",
+    "location": "文管A447",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "day": 2,
+    "time": "5-6"
+  },
+  {
+    "name": "线性代数",
+    "teacher": "郭阳",
+    "location": "1号A201",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "day": 4,
+    "time": "3-4"
+  },
+  {
+    "name": "军事理论",
+    "teacher": "甘霖",
+    "location": "1号A102",
+    "year": 2018,
+    "semester": 3,
+    "week": [10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 5,
+    "time": "3-4"
+  },
+  {
+    "name": "体育",
+    "teacher": "刘力瑜",
+    "location": "",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "day": 5,
+    "time": "5-6"
+  },
+  {
+    "name": "大学语文",
+    "teacher": "卞地诗",
+    "location": "1号A109",
+    "year": 2018,
+    "semester": 3,
+    "week": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "day": 3,
+    "time": "5-6"
   }
 ]
